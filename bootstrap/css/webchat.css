@@ -1,0 +1,32 @@
+#user_list_panel {
+    height: 500px;
+}
+
+#main_panel {
+    height: 500px;
+}
+
+#user_list_body {
+    position:relative;
+    height:460px;
+    width: auto;
+    overflow:auto
+}
+
+#nearby_list_body {
+    position:relative;
+    height:460px;
+    width: auto;
+    overflow:auto
+}
+
+#content_body {
+    position:relative;
+    height:380px;
+    width: auto;
+    overflow:auto
+}
+
+.viewhide {
+    display: none;
+}
